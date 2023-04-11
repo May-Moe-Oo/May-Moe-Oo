@@ -1,6 +1,7 @@
+
 ### Hi there 👋
 
-May here, I am an Aspiring Software Engineering. Just started my coding journey Feb this year. Previously I was from logistics, operation and warehouseing sector, the curiosity of how technology has been assisting us in our daily lives has inspired me to start my coding journey
+May here, I am an aspiring Software Engineer. Just started my coding journey Feb this year. Previously I was from logistics, operation and warehouseing sector, the curiosity of how technology has been assisting us in our daily lives has inspired me to start my coding journey
 
 - 🔭 I’m currently working on the wireframe and data model for my capstone project using MERN Stack.
 - 🌱 I’m currently learning python, react, ... , Javascript
